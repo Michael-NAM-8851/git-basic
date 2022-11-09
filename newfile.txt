@@ -1,3 +1,11 @@
 content of new file
 updated
 make changes to new file
+
+Difference between add, commit, push
+- add
+    - add changes of files to the staged area in the local repository
+- commit
+    - make a new copy of the local repository with the changes in stated area
+- push
+    - upload the copy of the local repository to the remote repository
